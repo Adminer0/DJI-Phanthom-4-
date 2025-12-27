@@ -17,7 +17,7 @@ The frame follows the Phantom-style monocoque body with raised motor arms, provi
 
 ## Journal
 
-[Blueprint By HackClub](https://blueprint.hackclub.com/projects/4493/)
+[Blueprint By HackClub](https://github.com/Adminer0/DJI-Phanthom-4/blob/main/journal.md)
 
 
 ## Roadmap
